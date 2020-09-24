@@ -23,18 +23,10 @@ public class promedio_primos{
 		for(int i=0;i<=100;i++){
 			if(esPrimo(i)){
 				x=x+i;
-				s= s+1;
-				if (s!=0) {
-					p=x/s;
-		 			System.out.println(p);
-				}else{
-					System.out.println()
-				}
-
+				s= s+1;						
 		 	}
-		 	
 		}
-
-
+					p=x/s;
+		 			System.out.println(p);		 	
 	}
 }

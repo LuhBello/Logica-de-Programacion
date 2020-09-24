@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Programa{
+public class Invierte_Numero{
 
 	public static void main(String[] args) {
 		
